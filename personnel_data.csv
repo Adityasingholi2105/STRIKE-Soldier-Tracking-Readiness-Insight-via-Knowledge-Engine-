@@ -1,0 +1,501 @@
+ID,Name,Age,Rank,Unit,FitnessScore,YearsOfService
+1001,Amit Singh,18,Naik,Rajput Regiment,68,0
+1002,Devraj Chopra,20,Agniveer,Signals Corps,73,3
+1003,Bhavesh Gupta,21,Lance Naik,Mechanised Infantry,72,0
+1004,Devraj Kumar,18,Agniveer,Signals Corps,84,1
+1005,Amit Nair,18,Havildar,Para SF,61,1
+1006,Manoj Reddy,25,Lance Naik,Madras Regiment,94,2
+1007,Bhavesh Iyer,19,Agniveer,Dogra Regiment,66,0
+1008,Rohit Kumar,25,Agniveer,Maratha Light Infantry,80,2
+1009,Sandeep Gupta,24,Naik,Grenadiers,77,0
+1010,Rohit Yadav,27,Agniveer,Mechanised Infantry,62,1
+1011,Vikram Kumar,27,Lance Naik,Sikh Regiment,98,1
+1012,Karan Gupta,19,Lance Naik,Sikh Regiment,70,1
+1013,Chandra Saxena,23,Naik,Sikh Regiment,98,0
+1014,Vikram Verma,23,Lance Naik,Maratha Light Infantry,83,1
+1015,Chandra Kumar,20,Havildar,Sikh Regiment,78,0
+1016,Raj Kapoor,19,Lance Naik,Gorkha Rifles,63,2
+1017,Anil Patel,18,Lance Naik,Mechanised Infantry,85,0
+1018,Devraj Kapoor,23,Agniveer,Gorkha Rifles,97,2
+1019,Priya Deshmukh,22,Agniveer,Madras Regiment,91,0
+1020,Bhavesh Iyer,26,Lance Naik,Mechanised Infantry,98,2
+1021,Farhan Nair,18,Naik,Gorkha Rifles,95,1
+1022,Chandra Kapoor,24,Agniveer,Mechanised Infantry,99,2
+1023,Farhan Saxena,22,Naik,Madras Regiment,96,1
+1024,Eshwar Chopra,22,Lance Naik,Rajput Regiment,92,1
+1025,Eshwar Yadav,19,Lance Naik,Maratha Light Infantry,95,2
+1026,Chandra Reddy,20,Havildar,Maratha Light Infantry,62,0
+1027,Sandeep Sharma,24,Agniveer,Sikh Regiment,68,0
+1028,Manoj Kumar,23,Lance Naik,Signals Corps,67,3
+1029,Manoj Reddy,19,Havildar,Sikh Regiment,92,0
+1030,Arjun Sharma,23,Agniveer,Para SF,65,3
+1031,Amit Verma,19,Lance Naik,Gorkha Rifles,98,0
+1032,Sandeep Sharma,19,Lance Naik,Mechanised Infantry,63,0
+1033,Chandra Saxena,19,Agniveer,Signals Corps,72,1
+1034,Karan Nair,20,Agniveer,Madras Regiment,61,3
+1035,Priya Nair,19,Agniveer,Para SF,64,0
+1036,Arjun Verma,21,Lance Naik,Madras Regiment,86,3
+1037,Sandeep Kapoor,26,Lance Naik,Maratha Light Infantry,91,1
+1038,Farhan Kapoor,23,Havildar,Maratha Light Infantry,80,1
+1039,Amit Kapoor,18,Naik,Sikh Regiment,67,3
+1040,Devraj Gupta,25,Agniveer,Gorkha Rifles,97,1
+1041,Farhan Yadav,24,Lance Naik,Signals Corps,67,2
+1042,Eshwar Deshmukh,27,Lance Naik,Dogra Regiment,62,2
+1043,Sandeep Verma,20,Agniveer,Para SF,62,1
+1044,Rohit Singh,18,Naik,Para SF,81,2
+1045,Karan Saxena,22,Agniveer,Sikh Regiment,65,0
+1046,Vikram Patel,21,Naik,Maratha Light Infantry,61,3
+1047,Anil Singh,27,Lance Naik,Sikh Regiment,82,0
+1048,Vikram Malhotra,25,Naik,Mechanised Infantry,61,3
+1049,Farhan Verma,18,Havildar,Signals Corps,97,1
+1050,Anil Kapoor,27,Lance Naik,Gorkha Rifles,76,0
+1051,Karan Nair,18,Havildar,Rajput Regiment,94,1
+1052,Eshwar Singh,21,Agniveer,Grenadiers,93,1
+1053,Eshwar Chopra,25,Agniveer,Grenadiers,82,3
+1054,Farhan Gupta,22,Agniveer,Sikh Regiment,89,3
+1055,Eshwar Reddy,19,Naik,Mechanised Infantry,67,3
+1056,Chandra Sharma,23,Lance Naik,Signals Corps,81,0
+1057,Eshwar Gupta,22,Agniveer,Dogra Regiment,95,2
+1058,Arjun Malhotra,19,Agniveer,Grenadiers,64,3
+1059,Karan Chopra,20,Lance Naik,Signals Corps,72,3
+1060,Arjun Gupta,26,Agniveer,Gorkha Rifles,88,0
+1061,Anil Sharma,24,Havildar,Madras Regiment,90,3
+1062,Chandra Kapoor,24,Lance Naik,Mechanised Infantry,75,0
+1063,Chandra Malhotra,23,Lance Naik,Maratha Light Infantry,89,1
+1064,Priya Malhotra,25,Lance Naik,Signals Corps,75,3
+1065,Farhan Malhotra,21,Havildar,Gorkha Rifles,71,3
+1066,Raj Sharma,25,Lance Naik,Dogra Regiment,76,1
+1067,Amit Sharma,21,Havildar,Rajput Regiment,75,1
+1068,Rohit Deshmukh,25,Lance Naik,Maratha Light Infantry,71,1
+1069,Chandra Gupta,26,Naik,Rajput Regiment,67,3
+1070,Rohit Chopra,20,Agniveer,Dogra Regiment,79,2
+1071,Bhavesh Yadav,20,Naik,Gorkha Rifles,62,2
+1072,Raj Gupta,19,Agniveer,Grenadiers,75,2
+1073,Manoj Yadav,27,Havildar,Rajput Regiment,89,3
+1074,Raj Iyer,20,Naik,Maratha Light Infantry,82,1
+1075,Arjun Nair,20,Lance Naik,Sikh Regiment,87,3
+1076,Amit Nair,22,Agniveer,Para SF,99,1
+1077,Priya Kapoor,22,Agniveer,Signals Corps,64,3
+1078,Amit Sharma,19,Naik,Grenadiers,79,3
+1079,Rohit Kapoor,27,Havildar,Rajput Regiment,99,1
+1080,Karan Deshmukh,23,Naik,Madras Regiment,60,2
+1081,Amit Reddy,22,Havildar,Signals Corps,89,1
+1082,Eshwar Gupta,23,Havildar,Sikh Regiment,80,0
+1083,Arjun Yadav,18,Agniveer,Dogra Regiment,79,0
+1084,Chandra Gupta,22,Naik,Para SF,65,1
+1085,Vikram Iyer,26,Naik,Gorkha Rifles,81,3
+1086,Manoj Deshmukh,27,Havildar,Sikh Regiment,77,0
+1087,Manoj Kumar,19,Naik,Sikh Regiment,67,0
+1088,Farhan Saxena,18,Lance Naik,Dogra Regiment,98,3
+1089,Manoj Deshmukh,27,Lance Naik,Mechanised Infantry,91,3
+1090,Arjun Nair,26,Naik,Dogra Regiment,92,2
+1091,Amit Chopra,27,Naik,Mechanised Infantry,75,3
+1092,Eshwar Reddy,26,Havildar,Mechanised Infantry,71,1
+1093,Bhavesh Sharma,26,Lance Naik,Grenadiers,97,1
+1094,Farhan Chopra,23,Lance Naik,Grenadiers,93,2
+1095,Anil Nair,25,Agniveer,Maratha Light Infantry,73,0
+1096,Chandra Malhotra,18,Havildar,Rajput Regiment,95,0
+1097,Manoj Chopra,27,Agniveer,Rajput Regiment,92,3
+1098,Amit Deshmukh,21,Lance Naik,Gorkha Rifles,82,1
+1099,Sandeep Malhotra,18,Havildar,Rajput Regiment,61,0
+1100,Sandeep Saxena,25,Naik,Grenadiers,80,2
+1101,Arjun Reddy,18,Havildar,Maratha Light Infantry,61,2
+1102,Amit Malhotra,20,Naik,Maratha Light Infantry,86,1
+1103,Farhan Iyer,21,Naik,Mechanised Infantry,68,2
+1104,Devraj Singh,25,Havildar,Dogra Regiment,60,2
+1105,Devraj Reddy,23,Naik,Gorkha Rifles,70,1
+1106,Bhavesh Yadav,27,Agniveer,Mechanised Infantry,62,3
+1107,Vikram Kapoor,24,Lance Naik,Dogra Regiment,82,3
+1108,Karan Nair,25,Naik,Rajput Regiment,85,2
+1109,Devraj Saxena,19,Agniveer,Mechanised Infantry,63,3
+1110,Priya Kumar,27,Naik,Signals Corps,77,3
+1111,Vikram Kapoor,25,Lance Naik,Rajput Regiment,65,2
+1112,Chandra Kapoor,20,Agniveer,Dogra Regiment,94,3
+1113,Chandra Singh,24,Lance Naik,Gorkha Rifles,81,2
+1114,Eshwar Saxena,20,Lance Naik,Dogra Regiment,74,0
+1115,Bhavesh Nair,24,Agniveer,Mechanised Infantry,81,1
+1116,Amit Kapoor,19,Agniveer,Mechanised Infantry,96,1
+1117,Priya Reddy,27,Agniveer,Sikh Regiment,71,3
+1118,Eshwar Deshmukh,23,Havildar,Gorkha Rifles,97,3
+1119,Raj Sharma,20,Agniveer,Madras Regiment,77,3
+1120,Bhavesh Saxena,20,Agniveer,Rajput Regiment,94,1
+1121,Priya Singh,26,Agniveer,Maratha Light Infantry,89,0
+1122,Devraj Sharma,24,Agniveer,Gorkha Rifles,83,0
+1123,Manoj Reddy,22,Naik,Maratha Light Infantry,89,1
+1124,Vikram Gupta,27,Havildar,Gorkha Rifles,73,0
+1125,Bhavesh Sharma,24,Lance Naik,Gorkha Rifles,65,1
+1126,Eshwar Kumar,26,Agniveer,Dogra Regiment,62,0
+1127,Raj Yadav,18,Naik,Gorkha Rifles,75,2
+1128,Anil Kapoor,24,Naik,Sikh Regiment,66,2
+1129,Rohit Chopra,23,Naik,Madras Regiment,73,1
+1130,Bhavesh Patel,27,Lance Naik,Mechanised Infantry,68,0
+1131,Rohit Sharma,26,Agniveer,Para SF,74,3
+1132,Sandeep Deshmukh,18,Havildar,Maratha Light Infantry,80,0
+1133,Eshwar Deshmukh,21,Havildar,Mechanised Infantry,94,2
+1134,Anil Singh,26,Naik,Para SF,61,2
+1135,Chandra Saxena,21,Lance Naik,Madras Regiment,86,0
+1136,Amit Verma,27,Lance Naik,Madras Regiment,61,0
+1137,Manoj Deshmukh,20,Lance Naik,Maratha Light Infantry,94,3
+1138,Arjun Deshmukh,26,Havildar,Maratha Light Infantry,77,3
+1139,Rohit Deshmukh,19,Naik,Madras Regiment,73,0
+1140,Bhavesh Deshmukh,21,Agniveer,Para SF,79,0
+1141,Karan Verma,23,Havildar,Gorkha Rifles,77,0
+1142,Chandra Patel,19,Naik,Rajput Regiment,69,0
+1143,Amit Kumar,25,Naik,Signals Corps,84,1
+1144,Raj Deshmukh,25,Agniveer,Mechanised Infantry,61,0
+1145,Manoj Saxena,18,Agniveer,Dogra Regiment,84,3
+1146,Karan Kumar,20,Agniveer,Mechanised Infantry,92,2
+1147,Chandra Nair,27,Lance Naik,Dogra Regiment,95,1
+1148,Vikram Reddy,26,Agniveer,Para SF,90,0
+1149,Sandeep Reddy,22,Naik,Dogra Regiment,73,2
+1150,Bhavesh Gupta,23,Agniveer,Maratha Light Infantry,60,1
+1151,Bhavesh Deshmukh,21,Naik,Rajput Regiment,75,2
+1152,Farhan Patel,27,Havildar,Rajput Regiment,62,0
+1153,Rohit Kumar,19,Lance Naik,Maratha Light Infantry,94,0
+1154,Sandeep Verma,25,Havildar,Sikh Regiment,65,3
+1155,Vikram Patel,23,Havildar,Para SF,84,0
+1156,Bhavesh Chopra,22,Naik,Sikh Regiment,72,0
+1157,Raj Sharma,26,Havildar,Sikh Regiment,93,1
+1158,Chandra Iyer,18,Naik,Mechanised Infantry,67,3
+1159,Vikram Malhotra,22,Agniveer,Madras Regiment,80,1
+1160,Manoj Singh,23,Agniveer,Mechanised Infantry,93,2
+1161,Chandra Iyer,22,Naik,Madras Regiment,63,0
+1162,Sandeep Yadav,23,Agniveer,Signals Corps,84,2
+1163,Anil Yadav,23,Lance Naik,Dogra Regiment,74,1
+1164,Farhan Yadav,24,Havildar,Madras Regiment,63,0
+1165,Sandeep Reddy,21,Lance Naik,Maratha Light Infantry,71,0
+1166,Sandeep Sharma,25,Havildar,Mechanised Infantry,91,1
+1167,Raj Gupta,24,Agniveer,Para SF,91,1
+1168,Amit Verma,26,Lance Naik,Dogra Regiment,87,1
+1169,Rohit Deshmukh,24,Agniveer,Signals Corps,72,1
+1170,Bhavesh Kapoor,20,Havildar,Madras Regiment,90,1
+1171,Priya Sharma,20,Naik,Signals Corps,73,0
+1172,Karan Reddy,25,Naik,Para SF,79,1
+1173,Farhan Saxena,22,Lance Naik,Sikh Regiment,77,0
+1174,Anil Yadav,21,Agniveer,Rajput Regiment,88,0
+1175,Amit Kapoor,25,Agniveer,Para SF,65,1
+1176,Anil Sharma,23,Lance Naik,Grenadiers,91,1
+1177,Sandeep Kapoor,19,Naik,Para SF,88,3
+1178,Raj Verma,21,Havildar,Signals Corps,61,0
+1179,Raj Saxena,21,Lance Naik,Maratha Light Infantry,82,1
+1180,Chandra Kumar,23,Havildar,Mechanised Infantry,78,1
+1181,Arjun Iyer,23,Naik,Maratha Light Infantry,90,1
+1182,Amit Sharma,18,Agniveer,Signals Corps,64,3
+1183,Priya Yadav,25,Naik,Mechanised Infantry,78,3
+1184,Manoj Yadav,23,Lance Naik,Grenadiers,93,2
+1185,Sandeep Gupta,20,Agniveer,Rajput Regiment,69,0
+1186,Vikram Gupta,26,Lance Naik,Dogra Regiment,84,2
+1187,Raj Gupta,19,Lance Naik,Signals Corps,61,1
+1188,Sandeep Iyer,25,Naik,Madras Regiment,70,3
+1189,Raj Gupta,27,Lance Naik,Signals Corps,90,3
+1190,Sandeep Patel,20,Naik,Signals Corps,74,2
+1191,Rohit Singh,22,Agniveer,Mechanised Infantry,68,3
+1192,Eshwar Yadav,23,Naik,Gorkha Rifles,82,1
+1193,Eshwar Sharma,27,Agniveer,Para SF,78,3
+1194,Manoj Sharma,23,Naik,Gorkha Rifles,68,2
+1195,Devraj Verma,21,Havildar,Grenadiers,94,1
+1196,Eshwar Verma,20,Havildar,Madras Regiment,80,2
+1197,Karan Patel,21,Lance Naik,Rajput Regiment,68,3
+1198,Manoj Malhotra,18,Naik,Sikh Regiment,87,2
+1199,Priya Singh,21,Naik,Grenadiers,66,2
+1200,Raj Singh,18,Agniveer,Sikh Regiment,75,0
+1201,Raj Saxena,18,Lance Naik,Sikh Regiment,75,3
+1202,Arjun Singh,27,Naik,Rajput Regiment,92,3
+1203,Rohit Gupta,23,Lance Naik,Maratha Light Infantry,63,2
+1204,Amit Yadav,22,Havildar,Gorkha Rifles,63,0
+1205,Raj Deshmukh,21,Naik,Signals Corps,98,3
+1206,Chandra Iyer,20,Naik,Dogra Regiment,99,1
+1207,Manoj Patel,18,Lance Naik,Sikh Regiment,76,2
+1208,Amit Patel,23,Naik,Madras Regiment,96,3
+1209,Eshwar Saxena,19,Lance Naik,Grenadiers,98,1
+1210,Vikram Patel,25,Naik,Maratha Light Infantry,88,3
+1211,Devraj Yadav,27,Agniveer,Sikh Regiment,95,1
+1212,Vikram Gupta,22,Lance Naik,Maratha Light Infantry,97,2
+1213,Bhavesh Iyer,24,Naik,Maratha Light Infantry,98,3
+1214,Karan Kumar,27,Havildar,Sikh Regiment,96,3
+1215,Eshwar Deshmukh,19,Naik,Mechanised Infantry,94,0
+1216,Chandra Chopra,25,Havildar,Para SF,66,2
+1217,Raj Kumar,19,Havildar,Madras Regiment,86,1
+1218,Chandra Malhotra,21,Agniveer,Signals Corps,87,3
+1219,Manoj Singh,18,Lance Naik,Signals Corps,81,3
+1220,Manoj Deshmukh,22,Naik,Madras Regiment,73,1
+1221,Raj Kapoor,26,Agniveer,Mechanised Infantry,66,2
+1222,Chandra Saxena,18,Naik,Signals Corps,96,0
+1223,Devraj Saxena,26,Havildar,Maratha Light Infantry,81,0
+1224,Arjun Patel,25,Lance Naik,Rajput Regiment,64,3
+1225,Manoj Kapoor,23,Naik,Grenadiers,61,1
+1226,Priya Kumar,24,Naik,Gorkha Rifles,86,3
+1227,Rohit Malhotra,20,Havildar,Signals Corps,80,1
+1228,Raj Saxena,18,Naik,Madras Regiment,97,0
+1229,Arjun Chopra,22,Naik,Rajput Regiment,74,2
+1230,Manoj Kapoor,19,Havildar,Sikh Regiment,80,1
+1231,Raj Singh,22,Agniveer,Para SF,69,0
+1232,Farhan Malhotra,25,Havildar,Madras Regiment,82,3
+1233,Arjun Reddy,26,Agniveer,Maratha Light Infantry,98,1
+1234,Raj Yadav,19,Lance Naik,Para SF,64,2
+1235,Karan Sharma,20,Agniveer,Grenadiers,60,3
+1236,Anil Chopra,20,Agniveer,Grenadiers,72,3
+1237,Vikram Nair,18,Lance Naik,Mechanised Infantry,80,0
+1238,Manoj Gupta,25,Agniveer,Dogra Regiment,85,1
+1239,Eshwar Gupta,23,Havildar,Mechanised Infantry,80,3
+1240,Karan Chopra,25,Agniveer,Rajput Regiment,77,2
+1241,Vikram Reddy,26,Lance Naik,Para SF,96,1
+1242,Karan Chopra,22,Havildar,Dogra Regiment,91,2
+1243,Bhavesh Nair,20,Lance Naik,Sikh Regiment,95,3
+1244,Karan Nair,22,Lance Naik,Maratha Light Infantry,76,2
+1245,Raj Gupta,22,Naik,Para SF,94,0
+1246,Raj Sharma,22,Naik,Mechanised Infantry,70,2
+1247,Bhavesh Patel,20,Lance Naik,Gorkha Rifles,80,1
+1248,Amit Malhotra,27,Lance Naik,Dogra Regiment,85,2
+1249,Anil Reddy,21,Lance Naik,Dogra Regiment,63,2
+1250,Anil Yadav,26,Naik,Maratha Light Infantry,93,0
+1251,Karan Sharma,27,Naik,Signals Corps,77,2
+1252,Rohit Malhotra,26,Agniveer,Grenadiers,99,2
+1253,Chandra Nair,19,Agniveer,Grenadiers,94,3
+1254,Amit Sharma,25,Lance Naik,Gorkha Rifles,88,3
+1255,Sandeep Malhotra,25,Havildar,Rajput Regiment,88,1
+1256,Sandeep Deshmukh,24,Havildar,Rajput Regiment,97,3
+1257,Rohit Saxena,25,Naik,Sikh Regiment,80,3
+1258,Eshwar Kapoor,20,Naik,Para SF,72,3
+1259,Manoj Reddy,23,Naik,Madras Regiment,76,3
+1260,Farhan Kapoor,18,Lance Naik,Signals Corps,68,0
+1261,Karan Verma,24,Havildar,Mechanised Infantry,60,3
+1262,Amit Chopra,18,Agniveer,Madras Regiment,61,0
+1263,Vikram Yadav,26,Lance Naik,Madras Regiment,88,0
+1264,Priya Nair,18,Agniveer,Dogra Regiment,92,3
+1265,Farhan Saxena,18,Agniveer,Gorkha Rifles,69,2
+1266,Devraj Patel,24,Lance Naik,Grenadiers,99,0
+1267,Anil Nair,19,Agniveer,Sikh Regiment,80,2
+1268,Vikram Deshmukh,22,Havildar,Rajput Regiment,87,2
+1269,Sandeep Nair,25,Agniveer,Gorkha Rifles,70,3
+1270,Vikram Chopra,25,Havildar,Dogra Regiment,93,1
+1271,Vikram Iyer,20,Havildar,Mechanised Infantry,67,3
+1272,Chandra Kumar,24,Havildar,Sikh Regiment,81,1
+1273,Raj Gupta,20,Naik,Dogra Regiment,67,1
+1274,Arjun Kapoor,23,Agniveer,Grenadiers,74,3
+1275,Chandra Kapoor,23,Lance Naik,Grenadiers,76,3
+1276,Arjun Reddy,20,Lance Naik,Grenadiers,82,1
+1277,Sandeep Patel,24,Agniveer,Gorkha Rifles,83,3
+1278,Devraj Singh,20,Naik,Gorkha Rifles,78,1
+1279,Eshwar Chopra,25,Naik,Rajput Regiment,64,2
+1280,Manoj Reddy,27,Havildar,Rajput Regiment,91,3
+1281,Rohit Singh,21,Agniveer,Mechanised Infantry,60,2
+1282,Devraj Verma,18,Agniveer,Sikh Regiment,82,0
+1283,Chandra Nair,21,Lance Naik,Maratha Light Infantry,96,2
+1284,Eshwar Yadav,24,Agniveer,Maratha Light Infantry,67,2
+1285,Raj Gupta,21,Naik,Dogra Regiment,72,1
+1286,Farhan Yadav,23,Agniveer,Grenadiers,67,2
+1287,Chandra Nair,26,Lance Naik,Sikh Regiment,82,3
+1288,Amit Nair,18,Havildar,Madras Regiment,60,1
+1289,Arjun Nair,22,Lance Naik,Gorkha Rifles,83,0
+1290,Arjun Saxena,24,Lance Naik,Para SF,94,3
+1291,Amit Chopra,18,Havildar,Signals Corps,83,0
+1292,Priya Kapoor,21,Lance Naik,Mechanised Infantry,76,2
+1293,Arjun Deshmukh,23,Lance Naik,Grenadiers,64,3
+1294,Anil Nair,19,Agniveer,Grenadiers,79,3
+1295,Raj Chopra,27,Agniveer,Grenadiers,80,0
+1296,Karan Saxena,22,Havildar,Gorkha Rifles,99,3
+1297,Vikram Sharma,27,Agniveer,Gorkha Rifles,90,3
+1298,Rohit Malhotra,18,Agniveer,Signals Corps,95,3
+1299,Arjun Deshmukh,23,Lance Naik,Madras Regiment,70,2
+1300,Devraj Reddy,23,Naik,Sikh Regiment,74,0
+1301,Farhan Kumar,21,Agniveer,Grenadiers,78,3
+1302,Vikram Malhotra,25,Naik,Maratha Light Infantry,66,1
+1303,Amit Yadav,21,Agniveer,Rajput Regiment,87,1
+1304,Chandra Nair,25,Agniveer,Maratha Light Infantry,64,1
+1305,Manoj Kumar,25,Havildar,Dogra Regiment,64,1
+1306,Vikram Sharma,22,Havildar,Maratha Light Infantry,89,2
+1307,Devraj Saxena,21,Havildar,Dogra Regiment,91,3
+1308,Chandra Kumar,19,Naik,Para SF,67,0
+1309,Farhan Deshmukh,20,Lance Naik,Rajput Regiment,69,3
+1310,Eshwar Saxena,20,Agniveer,Maratha Light Infantry,97,2
+1311,Eshwar Singh,21,Agniveer,Para SF,91,1
+1312,Arjun Kapoor,21,Agniveer,Mechanised Infantry,87,2
+1313,Anil Nair,27,Naik,Sikh Regiment,76,3
+1314,Arjun Reddy,22,Havildar,Para SF,90,0
+1315,Sandeep Deshmukh,21,Lance Naik,Sikh Regiment,67,2
+1316,Eshwar Saxena,27,Naik,Maratha Light Infantry,99,0
+1317,Arjun Reddy,25,Havildar,Madras Regiment,84,2
+1318,Anil Nair,23,Naik,Para SF,68,0
+1319,Vikram Kumar,23,Lance Naik,Rajput Regiment,61,0
+1320,Sandeep Verma,25,Havildar,Maratha Light Infantry,74,1
+1321,Sandeep Chopra,24,Naik,Grenadiers,62,0
+1322,Anil Nair,27,Lance Naik,Gorkha Rifles,95,1
+1323,Manoj Nair,27,Agniveer,Para SF,63,3
+1324,Raj Gupta,25,Lance Naik,Rajput Regiment,73,3
+1325,Arjun Malhotra,19,Agniveer,Mechanised Infantry,84,1
+1326,Sandeep Gupta,26,Naik,Grenadiers,69,1
+1327,Amit Verma,18,Havildar,Mechanised Infantry,80,2
+1328,Raj Kapoor,25,Havildar,Maratha Light Infantry,95,2
+1329,Bhavesh Singh,21,Naik,Gorkha Rifles,71,2
+1330,Rohit Kapoor,21,Havildar,Para SF,86,3
+1331,Karan Yadav,22,Havildar,Para SF,99,2
+1332,Chandra Deshmukh,25,Agniveer,Madras Regiment,61,0
+1333,Raj Malhotra,22,Naik,Madras Regiment,72,0
+1334,Manoj Iyer,25,Lance Naik,Maratha Light Infantry,91,2
+1335,Arjun Kapoor,27,Agniveer,Maratha Light Infantry,90,0
+1336,Manoj Deshmukh,18,Naik,Gorkha Rifles,75,3
+1337,Raj Gupta,27,Agniveer,Madras Regiment,91,0
+1338,Anil Iyer,26,Lance Naik,Rajput Regiment,91,3
+1339,Chandra Malhotra,23,Lance Naik,Rajput Regiment,93,1
+1340,Devraj Kapoor,20,Naik,Gorkha Rifles,70,1
+1341,Farhan Saxena,25,Lance Naik,Rajput Regiment,69,1
+1342,Karan Malhotra,26,Agniveer,Dogra Regiment,74,1
+1343,Manoj Verma,23,Lance Naik,Sikh Regiment,76,0
+1344,Manoj Reddy,24,Agniveer,Gorkha Rifles,99,2
+1345,Raj Nair,18,Agniveer,Gorkha Rifles,77,0
+1346,Rohit Malhotra,22,Lance Naik,Signals Corps,68,3
+1347,Anil Nair,22,Naik,Grenadiers,84,0
+1348,Anil Saxena,27,Havildar,Grenadiers,99,0
+1349,Karan Yadav,21,Lance Naik,Dogra Regiment,73,3
+1350,Priya Reddy,23,Agniveer,Madras Regiment,84,1
+1351,Sandeep Nair,24,Agniveer,Maratha Light Infantry,81,1
+1352,Arjun Verma,26,Lance Naik,Maratha Light Infantry,89,1
+1353,Devraj Iyer,18,Naik,Mechanised Infantry,79,2
+1354,Devraj Gupta,23,Naik,Dogra Regiment,80,3
+1355,Sandeep Sharma,24,Agniveer,Gorkha Rifles,91,3
+1356,Arjun Malhotra,20,Agniveer,Dogra Regiment,80,0
+1357,Priya Singh,25,Naik,Dogra Regiment,94,2
+1358,Anil Kumar,22,Havildar,Dogra Regiment,91,1
+1359,Priya Gupta,26,Lance Naik,Grenadiers,89,2
+1360,Manoj Deshmukh,22,Agniveer,Dogra Regiment,98,3
+1361,Manoj Singh,26,Agniveer,Sikh Regiment,71,3
+1362,Karan Deshmukh,27,Naik,Maratha Light Infantry,77,0
+1363,Amit Gupta,21,Lance Naik,Mechanised Infantry,80,0
+1364,Amit Saxena,26,Naik,Sikh Regiment,72,3
+1365,Arjun Kapoor,22,Lance Naik,Mechanised Infantry,80,1
+1366,Raj Reddy,27,Lance Naik,Signals Corps,67,1
+1367,Devraj Reddy,26,Lance Naik,Mechanised Infantry,99,2
+1368,Priya Yadav,20,Agniveer,Maratha Light Infantry,66,3
+1369,Priya Saxena,21,Havildar,Maratha Light Infantry,82,3
+1370,Raj Deshmukh,26,Naik,Dogra Regiment,91,1
+1371,Eshwar Singh,27,Havildar,Para SF,70,1
+1372,Priya Patel,23,Naik,Signals Corps,81,3
+1373,Devraj Iyer,19,Lance Naik,Gorkha Rifles,81,0
+1374,Manoj Deshmukh,24,Agniveer,Rajput Regiment,84,3
+1375,Sandeep Kapoor,19,Havildar,Mechanised Infantry,81,3
+1376,Devraj Sharma,19,Agniveer,Para SF,87,1
+1377,Manoj Kapoor,18,Naik,Dogra Regiment,88,1
+1378,Priya Reddy,20,Agniveer,Grenadiers,72,0
+1379,Chandra Saxena,23,Agniveer,Gorkha Rifles,77,0
+1380,Farhan Singh,25,Havildar,Madras Regiment,61,2
+1381,Manoj Nair,26,Lance Naik,Para SF,88,3
+1382,Farhan Kumar,24,Agniveer,Grenadiers,80,1
+1383,Arjun Yadav,21,Lance Naik,Signals Corps,74,0
+1384,Chandra Sharma,23,Naik,Dogra Regiment,86,2
+1385,Sandeep Iyer,22,Agniveer,Gorkha Rifles,90,2
+1386,Arjun Singh,25,Havildar,Gorkha Rifles,74,1
+1387,Arjun Reddy,18,Naik,Gorkha Rifles,82,1
+1388,Priya Reddy,18,Naik,Signals Corps,83,2
+1389,Devraj Kumar,23,Havildar,Mechanised Infantry,72,0
+1390,Anil Nair,27,Agniveer,Madras Regiment,81,2
+1391,Amit Saxena,19,Agniveer,Signals Corps,96,3
+1392,Farhan Nair,22,Naik,Rajput Regiment,92,3
+1393,Arjun Yadav,18,Agniveer,Madras Regiment,62,1
+1394,Amit Malhotra,24,Lance Naik,Maratha Light Infantry,78,0
+1395,Bhavesh Iyer,18,Havildar,Dogra Regiment,82,0
+1396,Karan Chopra,21,Lance Naik,Signals Corps,88,3
+1397,Chandra Sharma,26,Agniveer,Grenadiers,89,2
+1398,Anil Nair,18,Naik,Madras Regiment,98,1
+1399,Chandra Deshmukh,21,Havildar,Rajput Regiment,84,2
+1400,Devraj Patel,23,Agniveer,Maratha Light Infantry,96,2
+1401,Amit Saxena,23,Agniveer,Mechanised Infantry,67,2
+1402,Devraj Gupta,25,Naik,Grenadiers,75,0
+1403,Anil Sharma,18,Naik,Madras Regiment,67,3
+1404,Karan Iyer,24,Lance Naik,Dogra Regiment,60,0
+1405,Anil Verma,18,Havildar,Grenadiers,64,3
+1406,Arjun Malhotra,24,Havildar,Maratha Light Infantry,62,1
+1407,Arjun Patel,20,Naik,Grenadiers,60,1
+1408,Manoj Gupta,25,Lance Naik,Sikh Regiment,63,2
+1409,Devraj Deshmukh,20,Havildar,Para SF,99,3
+1410,Vikram Singh,18,Naik,Mechanised Infantry,94,3
+1411,Raj Chopra,25,Agniveer,Maratha Light Infantry,91,3
+1412,Amit Sharma,20,Havildar,Grenadiers,93,2
+1413,Devraj Singh,19,Lance Naik,Para SF,84,2
+1414,Sandeep Patel,18,Lance Naik,Para SF,69,1
+1415,Chandra Chopra,20,Lance Naik,Grenadiers,80,0
+1416,Manoj Malhotra,19,Agniveer,Dogra Regiment,98,3
+1417,Chandra Patel,19,Havildar,Sikh Regiment,86,3
+1418,Amit Iyer,23,Havildar,Signals Corps,86,0
+1419,Anil Nair,18,Agniveer,Sikh Regiment,61,3
+1420,Manoj Reddy,19,Havildar,Grenadiers,72,2
+1421,Eshwar Yadav,23,Agniveer,Mechanised Infantry,68,2
+1422,Devraj Malhotra,20,Agniveer,Signals Corps,95,3
+1423,Karan Kapoor,21,Agniveer,Maratha Light Infantry,81,2
+1424,Eshwar Nair,18,Lance Naik,Sikh Regiment,85,2
+1425,Sandeep Kapoor,25,Havildar,Grenadiers,71,3
+1426,Rohit Malhotra,24,Agniveer,Sikh Regiment,76,1
+1427,Farhan Sharma,24,Havildar,Signals Corps,73,0
+1428,Amit Deshmukh,20,Lance Naik,Rajput Regiment,73,2
+1429,Manoj Malhotra,27,Agniveer,Madras Regiment,93,1
+1430,Chandra Saxena,27,Naik,Sikh Regiment,79,2
+1431,Priya Chopra,20,Lance Naik,Maratha Light Infantry,70,2
+1432,Chandra Deshmukh,19,Naik,Maratha Light Infantry,75,0
+1433,Priya Gupta,18,Havildar,Gorkha Rifles,90,2
+1434,Raj Patel,24,Havildar,Sikh Regiment,65,0
+1435,Arjun Patel,24,Lance Naik,Madras Regiment,78,0
+1436,Anil Kapoor,19,Havildar,Dogra Regiment,96,0
+1437,Devraj Malhotra,24,Naik,Para SF,63,1
+1438,Devraj Chopra,25,Agniveer,Madras Regiment,63,3
+1439,Arjun Patel,18,Agniveer,Para SF,79,1
+1440,Arjun Iyer,26,Agniveer,Para SF,69,3
+1441,Chandra Kumar,24,Lance Naik,Rajput Regiment,83,3
+1442,Sandeep Yadav,20,Havildar,Gorkha Rifles,94,0
+1443,Manoj Singh,25,Naik,Madras Regiment,85,2
+1444,Priya Verma,24,Havildar,Madras Regiment,96,0
+1445,Farhan Sharma,25,Havildar,Rajput Regiment,97,2
+1446,Raj Saxena,23,Havildar,Sikh Regiment,80,3
+1447,Farhan Chopra,26,Agniveer,Sikh Regiment,99,0
+1448,Raj Kumar,22,Naik,Sikh Regiment,98,2
+1449,Vikram Patel,20,Naik,Mechanised Infantry,80,1
+1450,Manoj Reddy,20,Havildar,Para SF,69,2
+1451,Priya Iyer,18,Agniveer,Mechanised Infantry,97,0
+1452,Chandra Nair,25,Agniveer,Gorkha Rifles,63,1
+1453,Rohit Patel,19,Naik,Rajput Regiment,79,2
+1454,Chandra Gupta,20,Agniveer,Madras Regiment,76,2
+1455,Chandra Kumar,25,Agniveer,Para SF,66,2
+1456,Rohit Nair,25,Agniveer,Mechanised Infantry,63,2
+1457,Chandra Singh,21,Lance Naik,Mechanised Infantry,88,2
+1458,Anil Gupta,21,Havildar,Grenadiers,73,1
+1459,Anil Kapoor,22,Naik,Mechanised Infantry,62,3
+1460,Karan Kapoor,23,Naik,Dogra Regiment,83,1
+1461,Chandra Kumar,22,Lance Naik,Madras Regiment,96,1
+1462,Priya Singh,24,Havildar,Dogra Regiment,75,1
+1463,Bhavesh Patel,19,Naik,Madras Regiment,63,3
+1464,Farhan Deshmukh,24,Agniveer,Rajput Regiment,83,0
+1465,Priya Deshmukh,27,Naik,Madras Regiment,93,3
+1466,Arjun Singh,24,Agniveer,Dogra Regiment,89,1
+1467,Devraj Kapoor,18,Lance Naik,Madras Regiment,77,2
+1468,Devraj Malhotra,24,Agniveer,Rajput Regiment,78,2
+1469,Eshwar Yadav,22,Naik,Rajput Regiment,90,1
+1470,Devraj Patel,20,Naik,Gorkha Rifles,78,2
+1471,Karan Yadav,20,Naik,Madras Regiment,78,1
+1472,Arjun Chopra,21,Lance Naik,Grenadiers,81,2
+1473,Priya Verma,19,Lance Naik,Sikh Regiment,83,3
+1474,Anil Gupta,19,Havildar,Maratha Light Infantry,71,0
+1475,Eshwar Verma,18,Naik,Rajput Regiment,89,0
+1476,Bhavesh Malhotra,22,Agniveer,Signals Corps,97,3
+1477,Arjun Reddy,21,Lance Naik,Sikh Regiment,90,3
+1478,Rohit Deshmukh,27,Naik,Para SF,95,1
+1479,Vikram Deshmukh,19,Naik,Madras Regiment,78,1
+1480,Karan Chopra,20,Lance Naik,Dogra Regiment,95,1
+1481,Raj Iyer,24,Havildar,Maratha Light Infantry,89,2
+1482,Arjun Nair,24,Lance Naik,Signals Corps,92,1
+1483,Farhan Sharma,21,Lance Naik,Sikh Regiment,77,3
+1484,Vikram Iyer,22,Agniveer,Madras Regiment,87,0
+1485,Bhavesh Deshmukh,22,Agniveer,Gorkha Rifles,70,2
+1486,Devraj Deshmukh,23,Havildar,Para SF,92,1
+1487,Karan Sharma,26,Naik,Maratha Light Infantry,76,2
+1488,Manoj Chopra,19,Lance Naik,Grenadiers,65,2
+1489,Raj Kumar,22,Havildar,Gorkha Rifles,63,1
+1490,Amit Patel,20,Agniveer,Signals Corps,79,2
+1491,Chandra Deshmukh,21,Lance Naik,Maratha Light Infantry,86,0
+1492,Arjun Chopra,27,Naik,Gorkha Rifles,74,3
+1493,Arjun Patel,23,Agniveer,Para SF,65,3
+1494,Manoj Kumar,25,Agniveer,Grenadiers,73,0
+1495,Amit Kumar,18,Agniveer,Gorkha Rifles,70,2
+1496,Arjun Kumar,27,Havildar,Mechanised Infantry,98,1
+1497,Anil Nair,25,Naik,Grenadiers,68,2
+1498,Manoj Deshmukh,24,Lance Naik,Signals Corps,85,0
+1499,Arjun Saxena,18,Havildar,Para SF,75,2
+1500,Priya Saxena,19,Havildar,Madras Regiment,64,3

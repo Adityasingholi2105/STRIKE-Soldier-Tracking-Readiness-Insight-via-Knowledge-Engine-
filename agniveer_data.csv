@@ -1,0 +1,501 @@
+ID,Name,Age,Unit,TenureYears,FitnessScore,TrainingScore,PhysicalTestPass,DisciplinaryRecord,FitnessTrend,RetentionStatus
+1,Agniveer-1,20,Signals Corps,3,66,80,1,0,0,0
+2,Agniveer-2,21,Gorkha Rifles,1,58,74,1,0,1,0
+3,Agniveer-3,18,Gorkha Rifles,1,82,91,0,0,0,0
+4,Agniveer-4,20,Signals Corps,4,69,64,1,0,0,0
+5,Agniveer-5,20,Signals Corps,3,62,65,1,0,1,0
+6,Agniveer-6,21,Artillery Regiment,1,77,50,1,0,0,0
+7,Agniveer-7,18,Signals Corps,4,97,77,1,0,0,0
+8,Agniveer-8,18,Artillery Regiment,3,78,41,0,0,0,0
+9,Agniveer-9,20,Maratha Light Infantry,4,62,46,0,0,0,0
+10,Agniveer-10,19,Gorkha Rifles,2,95,57,1,1,1,0
+11,Agniveer-11,20,Signals Corps,1,84,66,0,0,0,0
+12,Agniveer-12,20,Gorkha Rifles,2,55,73,1,0,0,0
+13,Agniveer-13,20,Gorkha Rifles,3,67,66,1,0,1,0
+14,Agniveer-14,20,Gorkha Rifles,2,54,56,1,0,0,0
+15,Agniveer-15,21,Maratha Light Infantry,2,96,82,1,0,1,1
+16,Agniveer-16,18,Para SF,3,74,98,1,0,1,1
+17,Agniveer-17,21,Signals Corps,4,51,83,1,0,1,0
+18,Agniveer-18,21,Para SF,2,59,98,1,0,1,1
+19,Agniveer-19,21,Para SF,4,79,90,1,0,0,0
+20,Agniveer-20,20,Para SF,2,99,93,1,0,1,1
+21,Agniveer-21,19,Gorkha Rifles,4,94,63,1,0,0,0
+22,Agniveer-22,18,Artillery Regiment,3,54,64,1,0,1,0
+23,Agniveer-23,19,Gorkha Rifles,2,82,46,1,0,0,0
+24,Agniveer-24,21,Gorkha Rifles,3,50,91,1,0,1,0
+25,Agniveer-25,21,Para SF,2,67,45,1,0,1,0
+26,Agniveer-26,19,Gorkha Rifles,3,81,92,1,0,0,0
+27,Agniveer-27,19,Para SF,3,96,63,1,0,0,0
+28,Agniveer-28,19,Artillery Regiment,2,98,72,0,0,1,0
+29,Agniveer-29,21,Signals Corps,2,60,88,1,0,1,1
+30,Agniveer-30,21,Para SF,2,70,68,1,0,0,0
+31,Agniveer-31,18,Artillery Regiment,1,75,82,1,0,1,1
+32,Agniveer-32,18,Signals Corps,4,74,61,1,0,1,0
+33,Agniveer-33,21,Maratha Light Infantry,1,71,65,1,1,1,0
+34,Agniveer-34,19,Para SF,1,76,67,1,0,0,0
+35,Agniveer-35,19,Para SF,3,98,89,0,0,1,0
+36,Agniveer-36,18,Maratha Light Infantry,2,62,60,1,0,0,0
+37,Agniveer-37,21,Maratha Light Infantry,4,82,88,0,0,1,0
+38,Agniveer-38,18,Para SF,3,83,46,1,1,1,0
+39,Agniveer-39,18,Maratha Light Infantry,1,90,56,1,0,0,0
+40,Agniveer-40,20,Gorkha Rifles,2,84,59,1,0,1,1
+41,Agniveer-41,20,Signals Corps,3,50,80,1,0,0,0
+42,Agniveer-42,20,Signals Corps,2,70,88,1,0,1,1
+43,Agniveer-43,19,Signals Corps,3,97,59,0,0,1,0
+44,Agniveer-44,21,Gorkha Rifles,2,55,93,1,0,1,1
+45,Agniveer-45,21,Maratha Light Infantry,1,77,61,0,0,0,0
+46,Agniveer-46,21,Artillery Regiment,4,66,67,1,0,1,0
+47,Agniveer-47,21,Maratha Light Infantry,1,54,79,1,1,0,0
+48,Agniveer-48,20,Para SF,4,80,88,0,0,0,0
+49,Agniveer-49,19,Signals Corps,2,54,46,1,0,1,0
+50,Agniveer-50,19,Maratha Light Infantry,3,87,40,1,0,0,0
+51,Agniveer-51,20,Artillery Regiment,1,52,71,0,1,0,0
+52,Agniveer-52,19,Para SF,4,72,52,1,0,1,0
+53,Agniveer-53,20,Gorkha Rifles,1,86,69,1,0,0,0
+54,Agniveer-54,21,Gorkha Rifles,4,86,62,1,0,0,0
+55,Agniveer-55,20,Artillery Regiment,1,59,90,1,0,1,1
+56,Agniveer-56,21,Para SF,4,59,98,1,0,0,0
+57,Agniveer-57,21,Signals Corps,4,68,95,1,0,1,1
+58,Agniveer-58,18,Maratha Light Infantry,2,66,58,1,0,1,0
+59,Agniveer-59,20,Para SF,4,70,71,1,0,1,0
+60,Agniveer-60,18,Gorkha Rifles,2,63,69,1,0,1,0
+61,Agniveer-61,20,Artillery Regiment,4,58,68,1,0,0,0
+62,Agniveer-62,20,Artillery Regiment,3,95,88,1,0,0,0
+63,Agniveer-63,18,Maratha Light Infantry,3,50,84,1,0,1,0
+64,Agniveer-64,18,Artillery Regiment,3,94,68,1,0,1,1
+65,Agniveer-65,20,Artillery Regiment,4,62,69,1,0,1,0
+66,Agniveer-66,19,Para SF,2,53,55,1,0,0,0
+67,Agniveer-67,21,Signals Corps,2,50,79,1,0,0,0
+68,Agniveer-68,18,Maratha Light Infantry,4,98,58,0,0,0,0
+69,Agniveer-69,21,Para SF,3,89,57,1,0,1,1
+70,Agniveer-70,19,Signals Corps,3,81,40,1,0,1,0
+71,Agniveer-71,19,Para SF,2,83,53,1,0,1,0
+72,Agniveer-72,19,Para SF,3,77,90,1,0,1,1
+73,Agniveer-73,18,Artillery Regiment,1,80,86,1,0,0,0
+74,Agniveer-74,19,Signals Corps,2,57,89,1,1,1,0
+75,Agniveer-75,18,Maratha Light Infantry,3,88,41,0,0,1,0
+76,Agniveer-76,19,Maratha Light Infantry,2,75,93,1,0,1,1
+77,Agniveer-77,21,Signals Corps,1,83,67,1,0,1,1
+78,Agniveer-78,21,Artillery Regiment,2,52,88,1,0,1,0
+79,Agniveer-79,20,Gorkha Rifles,2,99,89,0,0,1,0
+80,Agniveer-80,21,Para SF,2,61,69,1,0,0,0
+81,Agniveer-81,20,Artillery Regiment,2,50,77,1,0,0,0
+82,Agniveer-82,21,Signals Corps,1,93,90,1,0,1,1
+83,Agniveer-83,18,Para SF,4,54,43,1,0,0,0
+84,Agniveer-84,21,Maratha Light Infantry,2,79,40,0,0,0,0
+85,Agniveer-85,20,Gorkha Rifles,2,79,47,1,0,0,0
+86,Agniveer-86,20,Maratha Light Infantry,3,66,68,1,0,1,0
+87,Agniveer-87,19,Signals Corps,2,97,94,0,0,0,0
+88,Agniveer-88,18,Para SF,3,96,78,1,0,1,1
+89,Agniveer-89,21,Signals Corps,4,72,42,0,0,1,0
+90,Agniveer-90,19,Para SF,1,64,71,1,0,0,0
+91,Agniveer-91,21,Artillery Regiment,1,86,49,0,0,0,0
+92,Agniveer-92,21,Gorkha Rifles,4,70,49,1,0,0,0
+93,Agniveer-93,19,Artillery Regiment,1,63,58,0,0,1,0
+94,Agniveer-94,19,Artillery Regiment,4,51,85,1,0,0,0
+95,Agniveer-95,19,Signals Corps,4,60,73,1,1,0,0
+96,Agniveer-96,19,Gorkha Rifles,4,88,99,1,0,0,0
+97,Agniveer-97,19,Para SF,1,87,72,1,1,1,0
+98,Agniveer-98,21,Para SF,3,83,62,1,0,1,1
+99,Agniveer-99,19,Maratha Light Infantry,4,87,94,1,0,1,1
+100,Agniveer-100,18,Para SF,2,99,67,1,0,1,1
+101,Agniveer-101,20,Signals Corps,1,83,71,1,0,0,0
+102,Agniveer-102,19,Artillery Regiment,4,67,89,1,0,1,1
+103,Agniveer-103,19,Artillery Regiment,4,79,46,1,0,0,0
+104,Agniveer-104,21,Artillery Regiment,2,64,68,1,0,1,0
+105,Agniveer-105,19,Gorkha Rifles,3,76,47,1,0,1,0
+106,Agniveer-106,19,Para SF,3,83,40,1,1,1,0
+107,Agniveer-107,19,Signals Corps,3,87,96,0,0,0,0
+108,Agniveer-108,21,Gorkha Rifles,4,82,94,0,0,0,0
+109,Agniveer-109,19,Maratha Light Infantry,4,73,42,1,0,0,0
+110,Agniveer-110,20,Signals Corps,4,64,63,1,0,0,0
+111,Agniveer-111,21,Signals Corps,1,79,62,1,0,0,0
+112,Agniveer-112,20,Signals Corps,2,91,98,1,0,0,0
+113,Agniveer-113,21,Artillery Regiment,4,66,47,1,0,0,0
+114,Agniveer-114,19,Signals Corps,2,54,93,1,0,1,1
+115,Agniveer-115,20,Para SF,2,78,96,1,0,1,1
+116,Agniveer-116,21,Signals Corps,3,53,86,0,0,1,0
+117,Agniveer-117,18,Artillery Regiment,1,59,76,1,1,0,0
+118,Agniveer-118,19,Signals Corps,4,66,42,1,0,1,0
+119,Agniveer-119,21,Maratha Light Infantry,3,59,90,1,0,0,0
+120,Agniveer-120,18,Maratha Light Infantry,3,66,72,1,0,1,0
+121,Agniveer-121,21,Artillery Regiment,4,69,67,0,0,0,0
+122,Agniveer-122,18,Para SF,2,73,86,1,0,1,1
+123,Agniveer-123,19,Para SF,3,54,47,1,0,1,0
+124,Agniveer-124,20,Gorkha Rifles,2,83,73,1,0,1,1
+125,Agniveer-125,18,Artillery Regiment,1,55,74,0,0,1,0
+126,Agniveer-126,21,Signals Corps,2,51,71,1,0,1,0
+127,Agniveer-127,19,Artillery Regiment,1,62,63,1,0,1,0
+128,Agniveer-128,18,Gorkha Rifles,2,92,53,1,0,1,1
+129,Agniveer-129,21,Artillery Regiment,3,92,71,1,0,1,1
+130,Agniveer-130,21,Artillery Regiment,3,97,95,1,0,1,1
+131,Agniveer-131,21,Gorkha Rifles,1,60,85,1,0,1,1
+132,Agniveer-132,18,Para SF,4,96,82,1,0,1,1
+133,Agniveer-133,18,Signals Corps,1,72,55,0,0,1,0
+134,Agniveer-134,18,Gorkha Rifles,1,65,43,1,0,0,0
+135,Agniveer-135,20,Maratha Light Infantry,2,80,91,1,0,0,0
+136,Agniveer-136,18,Para SF,2,60,76,0,0,0,0
+137,Agniveer-137,18,Maratha Light Infantry,1,65,93,1,0,0,0
+138,Agniveer-138,18,Para SF,3,57,60,1,0,0,0
+139,Agniveer-139,20,Signals Corps,2,53,53,1,0,1,0
+140,Agniveer-140,18,Signals Corps,4,89,70,1,0,0,0
+141,Agniveer-141,21,Artillery Regiment,2,53,94,1,0,1,1
+142,Agniveer-142,18,Maratha Light Infantry,2,74,87,1,0,0,0
+143,Agniveer-143,21,Para SF,4,52,57,1,0,0,0
+144,Agniveer-144,21,Signals Corps,1,81,46,1,0,1,0
+145,Agniveer-145,21,Gorkha Rifles,4,52,49,1,0,1,0
+146,Agniveer-146,20,Signals Corps,1,76,46,1,0,0,0
+147,Agniveer-147,20,Gorkha Rifles,1,78,72,1,0,1,1
+148,Agniveer-148,20,Para SF,1,81,62,1,0,1,1
+149,Agniveer-149,18,Signals Corps,4,99,60,1,0,0,0
+150,Agniveer-150,21,Signals Corps,1,68,58,1,0,0,0
+151,Agniveer-151,20,Para SF,3,70,87,1,0,1,1
+152,Agniveer-152,20,Signals Corps,4,54,58,1,0,1,0
+153,Agniveer-153,18,Gorkha Rifles,3,67,75,1,0,1,0
+154,Agniveer-154,20,Signals Corps,1,77,68,1,0,1,1
+155,Agniveer-155,18,Maratha Light Infantry,2,91,99,0,0,0,0
+156,Agniveer-156,19,Artillery Regiment,1,71,57,1,0,1,0
+157,Agniveer-157,20,Gorkha Rifles,3,70,41,1,1,0,0
+158,Agniveer-158,19,Maratha Light Infantry,3,55,40,1,0,1,0
+159,Agniveer-159,18,Para SF,4,50,86,0,0,1,0
+160,Agniveer-160,21,Gorkha Rifles,2,54,44,1,0,1,0
+161,Agniveer-161,20,Artillery Regiment,4,90,59,1,0,0,0
+162,Agniveer-162,18,Artillery Regiment,3,61,50,1,0,0,0
+163,Agniveer-163,21,Para SF,1,75,81,1,0,1,1
+164,Agniveer-164,21,Para SF,2,95,41,1,0,1,0
+165,Agniveer-165,19,Gorkha Rifles,1,83,42,1,0,1,0
+166,Agniveer-166,18,Signals Corps,1,98,62,0,0,0,0
+167,Agniveer-167,21,Para SF,2,63,94,1,0,1,1
+168,Agniveer-168,20,Signals Corps,4,75,51,1,0,0,0
+169,Agniveer-169,20,Maratha Light Infantry,1,94,59,1,0,1,1
+170,Agniveer-170,19,Artillery Regiment,3,76,44,1,0,0,0
+171,Agniveer-171,21,Signals Corps,1,58,76,1,0,1,0
+172,Agniveer-172,18,Artillery Regiment,2,75,77,1,0,0,0
+173,Agniveer-173,20,Signals Corps,2,96,69,1,0,1,1
+174,Agniveer-174,21,Maratha Light Infantry,2,71,48,1,0,1,0
+175,Agniveer-175,21,Para SF,4,96,73,1,0,0,0
+176,Agniveer-176,19,Maratha Light Infantry,1,79,92,1,0,0,0
+177,Agniveer-177,20,Para SF,4,92,83,1,0,0,0
+178,Agniveer-178,20,Para SF,4,97,74,0,0,0,0
+179,Agniveer-179,18,Artillery Regiment,2,66,91,1,0,1,1
+180,Agniveer-180,20,Maratha Light Infantry,2,75,97,1,0,1,1
+181,Agniveer-181,18,Signals Corps,4,85,61,1,0,1,1
+182,Agniveer-182,20,Maratha Light Infantry,1,50,83,1,0,1,0
+183,Agniveer-183,19,Artillery Regiment,3,57,63,1,0,1,0
+184,Agniveer-184,20,Para SF,4,98,56,1,0,0,0
+185,Agniveer-185,18,Artillery Regiment,1,84,49,1,0,0,0
+186,Agniveer-186,18,Gorkha Rifles,2,64,69,1,1,1,0
+187,Agniveer-187,19,Gorkha Rifles,2,96,95,1,0,1,1
+188,Agniveer-188,20,Signals Corps,1,71,98,1,0,0,0
+189,Agniveer-189,20,Artillery Regiment,3,63,85,1,0,0,0
+190,Agniveer-190,19,Signals Corps,2,75,62,0,1,1,0
+191,Agniveer-191,20,Signals Corps,2,77,71,0,0,1,0
+192,Agniveer-192,20,Gorkha Rifles,2,72,56,1,0,0,0
+193,Agniveer-193,18,Signals Corps,1,63,89,0,0,1,0
+194,Agniveer-194,20,Gorkha Rifles,4,73,90,1,1,1,0
+195,Agniveer-195,20,Para SF,2,51,56,1,0,0,0
+196,Agniveer-196,19,Artillery Regiment,4,94,53,1,0,0,0
+197,Agniveer-197,19,Signals Corps,3,75,48,1,0,1,0
+198,Agniveer-198,21,Gorkha Rifles,2,63,79,1,0,1,0
+199,Agniveer-199,18,Maratha Light Infantry,2,56,41,0,0,0,0
+200,Agniveer-200,20,Signals Corps,3,52,84,1,0,1,0
+201,Agniveer-201,20,Para SF,2,96,64,1,0,1,1
+202,Agniveer-202,21,Para SF,4,72,78,0,0,1,0
+203,Agniveer-203,20,Maratha Light Infantry,1,95,48,1,0,1,1
+204,Agniveer-204,18,Gorkha Rifles,4,92,93,1,0,1,1
+205,Agniveer-205,21,Signals Corps,1,96,61,1,0,1,1
+206,Agniveer-206,18,Gorkha Rifles,1,94,82,1,1,1,0
+207,Agniveer-207,21,Para SF,4,67,85,1,0,1,1
+208,Agniveer-208,21,Gorkha Rifles,4,87,43,1,0,1,0
+209,Agniveer-209,19,Para SF,4,84,65,1,0,1,1
+210,Agniveer-210,18,Gorkha Rifles,4,64,97,0,0,0,0
+211,Agniveer-211,20,Maratha Light Infantry,3,74,68,1,0,1,0
+212,Agniveer-212,20,Artillery Regiment,2,86,84,1,0,1,1
+213,Agniveer-213,18,Maratha Light Infantry,1,77,73,0,0,0,0
+214,Agniveer-214,20,Maratha Light Infantry,4,59,62,1,0,1,0
+215,Agniveer-215,20,Artillery Regiment,4,88,76,1,0,1,1
+216,Agniveer-216,18,Artillery Regiment,4,66,50,1,0,0,0
+217,Agniveer-217,21,Signals Corps,3,88,45,1,0,0,0
+218,Agniveer-218,18,Signals Corps,4,71,57,1,1,0,0
+219,Agniveer-219,21,Maratha Light Infantry,4,75,60,1,1,0,0
+220,Agniveer-220,20,Maratha Light Infantry,4,93,81,1,1,1,0
+221,Agniveer-221,20,Para SF,2,74,75,1,0,0,0
+222,Agniveer-222,20,Para SF,3,66,80,1,0,1,1
+223,Agniveer-223,19,Signals Corps,4,62,77,1,0,1,0
+224,Agniveer-224,21,Signals Corps,1,69,73,1,0,1,0
+225,Agniveer-225,19,Para SF,1,74,56,1,0,1,0
+226,Agniveer-226,19,Para SF,1,53,76,1,0,0,0
+227,Agniveer-227,18,Gorkha Rifles,3,59,64,1,0,1,0
+228,Agniveer-228,19,Gorkha Rifles,3,52,77,1,0,0,0
+229,Agniveer-229,18,Para SF,1,90,97,1,0,1,1
+230,Agniveer-230,18,Gorkha Rifles,4,94,51,0,0,1,0
+231,Agniveer-231,19,Artillery Regiment,3,67,62,1,0,0,0
+232,Agniveer-232,21,Signals Corps,1,96,92,1,0,0,0
+233,Agniveer-233,21,Signals Corps,1,85,81,1,1,1,0
+234,Agniveer-234,21,Para SF,4,96,61,1,0,1,1
+235,Agniveer-235,21,Maratha Light Infantry,2,71,60,1,0,1,0
+236,Agniveer-236,21,Para SF,3,83,66,1,0,0,0
+237,Agniveer-237,19,Gorkha Rifles,4,96,96,1,0,1,1
+238,Agniveer-238,19,Maratha Light Infantry,1,57,70,1,0,0,0
+239,Agniveer-239,20,Gorkha Rifles,1,89,45,1,1,1,0
+240,Agniveer-240,21,Artillery Regiment,4,98,66,1,0,1,1
+241,Agniveer-241,19,Gorkha Rifles,3,93,79,1,0,1,1
+242,Agniveer-242,20,Artillery Regiment,2,68,73,1,0,1,0
+243,Agniveer-243,21,Artillery Regiment,2,91,51,0,0,0,0
+244,Agniveer-244,18,Gorkha Rifles,1,90,84,1,0,1,1
+245,Agniveer-245,20,Gorkha Rifles,3,86,96,0,0,1,0
+246,Agniveer-246,19,Artillery Regiment,2,55,92,1,0,0,0
+247,Agniveer-247,18,Maratha Light Infantry,3,75,46,1,1,1,0
+248,Agniveer-248,18,Artillery Regiment,3,83,49,1,0,0,0
+249,Agniveer-249,18,Signals Corps,1,94,84,1,0,1,1
+250,Agniveer-250,20,Artillery Regiment,2,55,56,0,0,1,0
+251,Agniveer-251,19,Maratha Light Infantry,4,86,65,1,0,1,1
+252,Agniveer-252,18,Signals Corps,1,82,60,1,0,0,0
+253,Agniveer-253,21,Para SF,2,71,67,1,0,1,0
+254,Agniveer-254,18,Para SF,2,70,97,1,0,1,1
+255,Agniveer-255,18,Maratha Light Infantry,2,55,85,1,0,1,0
+256,Agniveer-256,20,Artillery Regiment,2,55,41,1,0,1,0
+257,Agniveer-257,20,Gorkha Rifles,2,97,99,1,0,0,1
+258,Agniveer-258,19,Maratha Light Infantry,3,53,93,1,0,1,1
+259,Agniveer-259,21,Signals Corps,1,79,82,1,0,1,1
+260,Agniveer-260,20,Signals Corps,3,60,40,1,1,1,0
+261,Agniveer-261,18,Para SF,4,79,90,1,0,1,1
+262,Agniveer-262,19,Signals Corps,2,80,92,1,0,1,1
+263,Agniveer-263,18,Maratha Light Infantry,1,73,75,1,0,1,1
+264,Agniveer-264,18,Signals Corps,2,58,90,1,1,1,0
+265,Agniveer-265,20,Maratha Light Infantry,1,52,65,1,0,0,0
+266,Agniveer-266,19,Gorkha Rifles,3,80,68,1,0,0,0
+267,Agniveer-267,21,Para SF,1,89,60,0,0,0,0
+268,Agniveer-268,21,Signals Corps,4,86,50,1,0,0,0
+269,Agniveer-269,20,Maratha Light Infantry,4,85,79,1,0,1,1
+270,Agniveer-270,20,Artillery Regiment,1,73,50,1,0,1,0
+271,Agniveer-271,19,Para SF,1,80,75,1,0,1,1
+272,Agniveer-272,21,Gorkha Rifles,1,55,88,1,1,1,0
+273,Agniveer-273,21,Maratha Light Infantry,1,51,98,1,0,1,1
+274,Agniveer-274,21,Gorkha Rifles,4,69,78,1,0,1,1
+275,Agniveer-275,18,Gorkha Rifles,2,77,79,1,0,1,1
+276,Agniveer-276,21,Signals Corps,1,60,74,1,0,1,0
+277,Agniveer-277,18,Signals Corps,1,53,93,1,0,1,1
+278,Agniveer-278,19,Maratha Light Infantry,4,64,73,1,0,0,0
+279,Agniveer-279,18,Artillery Regiment,4,55,94,1,0,0,0
+280,Agniveer-280,19,Maratha Light Infantry,3,98,86,1,0,1,1
+281,Agniveer-281,21,Artillery Regiment,1,79,63,1,0,1,0
+282,Agniveer-282,21,Gorkha Rifles,3,87,93,1,0,0,0
+283,Agniveer-283,19,Para SF,4,51,61,1,0,1,0
+284,Agniveer-284,20,Maratha Light Infantry,4,64,44,1,0,1,0
+285,Agniveer-285,19,Maratha Light Infantry,2,60,95,1,1,0,0
+286,Agniveer-286,20,Artillery Regiment,1,57,72,1,0,0,0
+287,Agniveer-287,18,Gorkha Rifles,3,75,97,0,0,1,0
+288,Agniveer-288,18,Gorkha Rifles,4,94,75,1,0,1,1
+289,Agniveer-289,18,Artillery Regiment,4,93,86,0,0,0,0
+290,Agniveer-290,21,Gorkha Rifles,3,54,59,1,0,1,0
+291,Agniveer-291,18,Signals Corps,2,55,58,1,0,1,0
+292,Agniveer-292,20,Para SF,4,75,74,1,0,1,1
+293,Agniveer-293,18,Maratha Light Infantry,1,53,91,1,0,0,0
+294,Agniveer-294,19,Para SF,4,68,82,0,0,0,0
+295,Agniveer-295,19,Maratha Light Infantry,1,69,56,1,0,1,0
+296,Agniveer-296,21,Signals Corps,3,82,98,1,0,1,1
+297,Agniveer-297,19,Gorkha Rifles,1,69,84,1,0,1,1
+298,Agniveer-298,20,Artillery Regiment,3,98,82,1,0,0,0
+299,Agniveer-299,18,Signals Corps,1,61,73,0,0,1,0
+300,Agniveer-300,21,Para SF,3,96,48,1,0,0,0
+301,Agniveer-301,18,Artillery Regiment,1,50,65,1,0,0,0
+302,Agniveer-302,18,Gorkha Rifles,2,75,41,1,0,0,0
+303,Agniveer-303,20,Signals Corps,1,63,92,1,0,0,0
+304,Agniveer-304,19,Artillery Regiment,1,87,48,1,0,1,0
+305,Agniveer-305,19,Signals Corps,2,86,48,1,0,1,0
+306,Agniveer-306,18,Signals Corps,4,60,79,1,0,0,0
+307,Agniveer-307,21,Gorkha Rifles,4,85,56,1,0,1,0
+308,Agniveer-308,19,Maratha Light Infantry,1,62,40,1,0,0,0
+309,Agniveer-309,21,Artillery Regiment,2,92,64,1,0,1,1
+310,Agniveer-310,19,Gorkha Rifles,1,52,82,0,0,1,0
+311,Agniveer-311,21,Signals Corps,3,82,79,1,0,0,0
+312,Agniveer-312,20,Gorkha Rifles,3,55,81,1,0,1,0
+313,Agniveer-313,21,Maratha Light Infantry,1,99,64,1,0,0,0
+314,Agniveer-314,20,Artillery Regiment,4,59,78,1,0,0,0
+315,Agniveer-315,20,Maratha Light Infantry,4,54,74,1,0,0,0
+316,Agniveer-316,21,Para SF,1,72,42,1,0,1,0
+317,Agniveer-317,20,Artillery Regiment,1,59,89,1,0,1,1
+318,Agniveer-318,18,Maratha Light Infantry,3,93,76,1,0,0,0
+319,Agniveer-319,20,Signals Corps,4,51,83,1,0,1,0
+320,Agniveer-320,19,Artillery Regiment,1,62,83,1,0,1,1
+321,Agniveer-321,21,Artillery Regiment,3,89,90,1,0,1,1
+322,Agniveer-322,18,Gorkha Rifles,4,51,69,1,0,1,0
+323,Agniveer-323,21,Signals Corps,2,69,77,1,0,1,1
+324,Agniveer-324,19,Para SF,3,50,73,1,0,0,0
+325,Agniveer-325,19,Maratha Light Infantry,4,86,51,1,0,0,0
+326,Agniveer-326,19,Gorkha Rifles,4,58,58,0,0,1,0
+327,Agniveer-327,20,Maratha Light Infantry,3,66,76,1,0,0,0
+328,Agniveer-328,20,Para SF,2,58,83,0,0,1,0
+329,Agniveer-329,21,Para SF,3,60,98,1,0,1,1
+330,Agniveer-330,21,Artillery Regiment,4,64,98,0,0,0,0
+331,Agniveer-331,18,Para SF,1,73,88,1,0,0,0
+332,Agniveer-332,18,Maratha Light Infantry,1,87,56,1,0,0,0
+333,Agniveer-333,21,Signals Corps,3,84,49,1,0,1,0
+334,Agniveer-334,20,Signals Corps,4,79,96,0,0,1,0
+335,Agniveer-335,19,Artillery Regiment,1,80,94,0,0,0,0
+336,Agniveer-336,21,Maratha Light Infantry,4,98,88,1,0,0,0
+337,Agniveer-337,18,Maratha Light Infantry,3,54,86,1,0,0,0
+338,Agniveer-338,20,Para SF,1,93,51,1,0,1,1
+339,Agniveer-339,21,Maratha Light Infantry,4,99,55,1,0,0,0
+340,Agniveer-340,21,Gorkha Rifles,1,63,63,1,0,1,0
+341,Agniveer-341,20,Para SF,3,60,58,0,0,0,0
+342,Agniveer-342,21,Gorkha Rifles,4,58,47,1,0,0,0
+343,Agniveer-343,20,Artillery Regiment,1,83,70,1,0,1,1
+344,Agniveer-344,19,Signals Corps,3,61,60,1,0,1,0
+345,Agniveer-345,20,Artillery Regiment,1,84,56,1,0,1,0
+346,Agniveer-346,20,Signals Corps,1,84,62,1,0,1,1
+347,Agniveer-347,20,Artillery Regiment,2,50,76,1,0,0,0
+348,Agniveer-348,21,Maratha Light Infantry,2,89,93,1,0,1,1
+349,Agniveer-349,21,Gorkha Rifles,3,71,55,0,0,0,0
+350,Agniveer-350,20,Signals Corps,2,78,45,0,0,0,0
+351,Agniveer-351,21,Para SF,3,57,47,0,0,1,0
+352,Agniveer-352,18,Gorkha Rifles,2,60,64,1,0,1,0
+353,Agniveer-353,18,Para SF,1,90,57,1,0,1,1
+354,Agniveer-354,21,Gorkha Rifles,3,86,64,1,0,1,1
+355,Agniveer-355,21,Gorkha Rifles,3,63,51,1,0,1,0
+356,Agniveer-356,20,Artillery Regiment,1,79,54,1,0,0,0
+357,Agniveer-357,19,Signals Corps,3,84,98,1,1,0,0
+358,Agniveer-358,21,Signals Corps,3,70,65,1,0,1,0
+359,Agniveer-359,18,Gorkha Rifles,2,86,80,1,0,0,0
+360,Agniveer-360,20,Maratha Light Infantry,3,54,84,1,0,1,0
+361,Agniveer-361,21,Maratha Light Infantry,4,68,65,1,0,1,0
+362,Agniveer-362,18,Para SF,1,63,86,1,0,0,0
+363,Agniveer-363,18,Para SF,2,75,71,1,0,1,1
+364,Agniveer-364,19,Artillery Regiment,2,53,49,0,0,1,0
+365,Agniveer-365,20,Gorkha Rifles,4,74,55,1,0,0,0
+366,Agniveer-366,20,Para SF,1,94,46,1,0,1,0
+367,Agniveer-367,19,Para SF,1,91,56,1,0,1,1
+368,Agniveer-368,19,Gorkha Rifles,2,74,62,1,0,0,0
+369,Agniveer-369,20,Artillery Regiment,3,67,65,0,0,1,0
+370,Agniveer-370,20,Para SF,2,89,60,1,0,1,1
+371,Agniveer-371,21,Artillery Regiment,1,57,61,1,0,0,0
+372,Agniveer-372,21,Signals Corps,4,88,97,1,0,1,1
+373,Agniveer-373,19,Artillery Regiment,2,89,46,1,0,0,0
+374,Agniveer-374,21,Maratha Light Infantry,1,63,53,1,0,1,0
+375,Agniveer-375,18,Maratha Light Infantry,2,81,54,1,0,1,0
+376,Agniveer-376,21,Artillery Regiment,3,87,92,1,1,0,0
+377,Agniveer-377,21,Maratha Light Infantry,2,82,46,1,0,0,0
+378,Agniveer-378,18,Signals Corps,2,72,48,1,0,1,0
+379,Agniveer-379,19,Gorkha Rifles,1,64,90,1,1,1,0
+380,Agniveer-380,18,Maratha Light Infantry,1,82,87,1,0,1,1
+381,Agniveer-381,21,Maratha Light Infantry,1,74,47,1,0,0,0
+382,Agniveer-382,19,Artillery Regiment,2,66,89,1,1,1,0
+383,Agniveer-383,21,Signals Corps,3,82,98,1,0,1,1
+384,Agniveer-384,18,Gorkha Rifles,4,96,62,0,0,1,0
+385,Agniveer-385,18,Artillery Regiment,4,51,68,1,0,0,0
+386,Agniveer-386,21,Artillery Regiment,1,63,57,0,0,1,0
+387,Agniveer-387,20,Signals Corps,1,89,70,1,0,1,1
+388,Agniveer-388,20,Gorkha Rifles,2,89,69,1,1,0,0
+389,Agniveer-389,18,Signals Corps,4,88,91,1,0,1,1
+390,Agniveer-390,18,Gorkha Rifles,1,55,78,1,0,0,0
+391,Agniveer-391,20,Signals Corps,3,55,74,1,0,1,0
+392,Agniveer-392,20,Artillery Regiment,3,52,57,1,0,1,0
+393,Agniveer-393,21,Artillery Regiment,1,56,98,1,0,0,0
+394,Agniveer-394,21,Para SF,1,57,81,1,0,1,0
+395,Agniveer-395,20,Maratha Light Infantry,4,91,78,1,0,1,1
+396,Agniveer-396,21,Signals Corps,4,64,56,1,0,0,0
+397,Agniveer-397,21,Para SF,2,96,53,1,1,1,0
+398,Agniveer-398,19,Maratha Light Infantry,4,78,70,1,0,1,1
+399,Agniveer-399,21,Signals Corps,3,82,63,1,0,1,1
+400,Agniveer-400,18,Gorkha Rifles,3,79,74,1,0,0,0
+401,Agniveer-401,21,Maratha Light Infantry,1,88,83,1,1,1,0
+402,Agniveer-402,21,Artillery Regiment,4,76,99,1,1,1,0
+403,Agniveer-403,20,Para SF,2,85,84,1,0,0,0
+404,Agniveer-404,18,Maratha Light Infantry,3,78,73,1,0,1,1
+405,Agniveer-405,21,Maratha Light Infantry,3,87,42,1,0,1,0
+406,Agniveer-406,21,Artillery Regiment,2,82,76,1,0,1,1
+407,Agniveer-407,19,Signals Corps,2,86,82,0,0,1,0
+408,Agniveer-408,21,Gorkha Rifles,3,76,79,1,0,1,1
+409,Agniveer-409,21,Artillery Regiment,3,82,65,1,1,1,0
+410,Agniveer-410,19,Gorkha Rifles,2,53,94,1,0,0,0
+411,Agniveer-411,20,Signals Corps,3,71,62,1,0,1,0
+412,Agniveer-412,21,Maratha Light Infantry,1,51,83,1,0,1,0
+413,Agniveer-413,19,Gorkha Rifles,1,59,78,1,0,1,0
+414,Agniveer-414,18,Para SF,2,54,54,1,0,1,0
+415,Agniveer-415,20,Para SF,4,59,95,1,0,1,1
+416,Agniveer-416,18,Artillery Regiment,2,82,88,1,0,1,1
+417,Agniveer-417,18,Signals Corps,2,87,43,1,0,1,0
+418,Agniveer-418,19,Artillery Regiment,4,62,68,0,1,1,0
+419,Agniveer-419,21,Artillery Regiment,4,80,61,0,0,1,0
+420,Agniveer-420,19,Artillery Regiment,4,96,64,1,0,0,0
+421,Agniveer-421,19,Para SF,1,85,52,1,0,0,0
+422,Agniveer-422,19,Para SF,3,94,57,1,0,1,1
+423,Agniveer-423,19,Artillery Regiment,1,73,72,1,0,0,0
+424,Agniveer-424,20,Para SF,3,64,55,1,0,0,0
+425,Agniveer-425,21,Signals Corps,1,78,84,1,0,0,0
+426,Agniveer-426,18,Artillery Regiment,3,57,81,1,0,0,0
+427,Agniveer-427,18,Para SF,1,54,83,1,0,0,0
+428,Agniveer-428,21,Gorkha Rifles,4,78,41,1,0,1,0
+429,Agniveer-429,18,Artillery Regiment,2,96,94,1,0,0,0
+430,Agniveer-430,21,Artillery Regiment,1,53,74,1,0,1,0
+431,Agniveer-431,18,Signals Corps,3,61,81,0,0,1,0
+432,Agniveer-432,19,Maratha Light Infantry,4,94,73,1,0,1,1
+433,Agniveer-433,18,Maratha Light Infantry,1,51,69,1,0,0,0
+434,Agniveer-434,21,Signals Corps,1,76,98,1,0,1,1
+435,Agniveer-435,21,Signals Corps,4,80,94,1,0,1,1
+436,Agniveer-436,21,Signals Corps,1,85,52,1,0,1,0
+437,Agniveer-437,21,Maratha Light Infantry,2,85,52,1,0,1,0
+438,Agniveer-438,21,Signals Corps,1,75,57,1,0,1,0
+439,Agniveer-439,20,Para SF,2,92,71,1,0,0,0
+440,Agniveer-440,20,Artillery Regiment,2,76,71,1,0,1,1
+441,Agniveer-441,18,Artillery Regiment,4,54,74,1,0,1,0
+442,Agniveer-442,21,Gorkha Rifles,1,69,98,1,1,1,0
+443,Agniveer-443,18,Gorkha Rifles,4,60,78,1,0,1,0
+444,Agniveer-444,21,Artillery Regiment,1,59,85,1,0,0,0
+445,Agniveer-445,21,Para SF,1,89,91,0,0,1,0
+446,Agniveer-446,20,Maratha Light Infantry,3,87,68,1,0,0,0
+447,Agniveer-447,20,Maratha Light Infantry,1,55,88,1,0,0,0
+448,Agniveer-448,19,Para SF,4,57,68,1,1,0,0
+449,Agniveer-449,20,Maratha Light Infantry,2,72,92,1,1,0,0
+450,Agniveer-450,19,Signals Corps,1,96,83,1,0,1,1
+451,Agniveer-451,19,Artillery Regiment,3,75,96,0,0,0,0
+452,Agniveer-452,19,Artillery Regiment,4,95,55,1,0,0,0
+453,Agniveer-453,19,Para SF,1,92,95,1,0,1,1
+454,Agniveer-454,19,Maratha Light Infantry,4,61,83,1,0,1,1
+455,Agniveer-455,18,Gorkha Rifles,3,75,86,1,0,1,1
+456,Agniveer-456,20,Gorkha Rifles,3,62,96,1,0,1,1
+457,Agniveer-457,19,Maratha Light Infantry,4,89,49,1,1,1,0
+458,Agniveer-458,21,Gorkha Rifles,1,67,69,1,0,0,0
+459,Agniveer-459,20,Para SF,2,74,64,1,0,0,0
+460,Agniveer-460,20,Para SF,3,82,78,0,0,1,0
+461,Agniveer-461,19,Maratha Light Infantry,1,96,59,1,0,0,0
+462,Agniveer-462,18,Gorkha Rifles,1,89,44,1,0,1,0
+463,Agniveer-463,19,Para SF,2,92,40,1,0,0,0
+464,Agniveer-464,18,Para SF,3,61,69,0,0,0,0
+465,Agniveer-465,21,Signals Corps,3,93,88,0,0,1,0
+466,Agniveer-466,20,Signals Corps,1,85,42,1,0,1,0
+467,Agniveer-467,21,Para SF,1,97,84,1,0,1,1
+468,Agniveer-468,18,Maratha Light Infantry,2,53,53,1,0,1,0
+469,Agniveer-469,18,Artillery Regiment,2,54,95,1,0,0,0
+470,Agniveer-470,21,Artillery Regiment,3,86,69,1,0,0,0
+471,Agniveer-471,18,Para SF,4,57,89,1,0,1,1
+472,Agniveer-472,21,Para SF,3,91,43,1,0,1,0
+473,Agniveer-473,20,Para SF,1,98,57,1,0,0,0
+474,Agniveer-474,21,Maratha Light Infantry,3,77,76,1,0,1,1
+475,Agniveer-475,20,Signals Corps,4,80,64,1,0,0,0
+476,Agniveer-476,21,Para SF,2,58,87,1,0,1,1
+477,Agniveer-477,18,Para SF,4,78,40,1,0,0,0
+478,Agniveer-478,21,Gorkha Rifles,4,63,92,1,1,1,0
+479,Agniveer-479,18,Maratha Light Infantry,4,89,85,1,0,1,1
+480,Agniveer-480,21,Para SF,2,90,54,1,0,0,0
+481,Agniveer-481,21,Gorkha Rifles,4,71,48,1,0,1,0
+482,Agniveer-482,19,Artillery Regiment,4,60,54,1,0,1,0
+483,Agniveer-483,18,Para SF,4,72,88,0,0,0,0
+484,Agniveer-484,19,Para SF,1,50,96,1,0,0,0
+485,Agniveer-485,18,Gorkha Rifles,4,95,63,1,0,0,0
+486,Agniveer-486,19,Maratha Light Infantry,2,86,43,1,0,0,0
+487,Agniveer-487,20,Para SF,4,70,51,1,0,1,0
+488,Agniveer-488,21,Artillery Regiment,4,75,98,1,0,1,1
+489,Agniveer-489,18,Para SF,2,95,97,1,0,1,1
+490,Agniveer-490,18,Artillery Regiment,4,85,76,1,0,0,0
+491,Agniveer-491,21,Signals Corps,2,72,76,1,1,0,0
+492,Agniveer-492,18,Signals Corps,4,50,82,1,0,0,0
+493,Agniveer-493,18,Artillery Regiment,2,89,99,1,0,1,1
+494,Agniveer-494,19,Maratha Light Infantry,4,64,45,1,0,1,0
+495,Agniveer-495,18,Para SF,4,70,78,1,0,0,0
+496,Agniveer-496,20,Para SF,1,96,95,1,0,1,1
+497,Agniveer-497,20,Signals Corps,1,58,85,0,0,1,0
+498,Agniveer-498,21,Artillery Regiment,4,58,63,0,0,1,0
+499,Agniveer-499,18,Para SF,4,59,50,1,0,1,0
+500,Agniveer-500,21,Para SF,3,75,52,1,0,1,0
