@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.tmp
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+.vscode/
+.streamlit/
+.DS_Store
+.pytest_cache/
