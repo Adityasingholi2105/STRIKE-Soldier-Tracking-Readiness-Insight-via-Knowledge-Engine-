@@ -1,31 +1,34 @@
 # STRIKE
 
-STRIKE is a soldier tracking and readiness insight dashboard built with Streamlit. It helps command teams review personnel data, analyze readiness metrics, and explore retention and promotion prediction workflows.
+STRIKE is a defense analytics dashboard built with Streamlit for monitoring soldier readiness, tracking personnel data, and predicting retention risk. It provides commanders with a concise operational view of workforce performance and helps identify personnel who may need support, training, or intervention.
 
 ## Features
 
 - Personnel overview dashboard
-- Readiness analytics visualizations
-- Retention predictor interface
-- Export tools for report generation
-- Machine learning workflows for prediction modeling
+- Readiness analytics and unit fitness monitoring
+- Retention prediction workflows using ML
+- Data-driven operational insights for workforce planning
+- Clean, dark-themed UI designed for command dashboards
 
 ## Project Structure
 
-- `strike_dashboard.py` — main Streamlit app entry point
-- `pages/` — dashboard pages for overview, analytics, and retention prediction
-- `utils/` — reusable helper modules
-- `train_*.py` — training scripts for predictive models
-- `models/` — serialized machine learning models
+- `strike_dashboard.py` — main Streamlit entry point
+- `pages/` — overview, readiness, and retention pages
+- `utils/` — shared styling and helper utilities
+- `models/` — trained model artifacts
+- `agniveer_data.csv` — main dataset used by the dashboard
+- `train_retention_model.py` — script to retrain the retention model
+- `generate_agniveer_data.py` — synthetic data generator
 
 ## Setup
 
 1. Clone the repository
-2. Install dependencies:
+2. Create a virtual environment if needed
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the dashboard:
+4. Run the app:
    ```bash
    streamlit run strike_dashboard.py
    ```
@@ -35,6 +38,8 @@ STRIKE is a soldier tracking and readiness insight dashboard built with Streamli
 - Python 3.10+
 - Streamlit
 - Pandas
+- NumPy
 - Plotly
 - scikit-learn
+- Matplotlib
 - openpyxl
